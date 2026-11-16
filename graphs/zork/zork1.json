@@ -1,0 +1,2217 @@
+{
+ "episodes": [
+  "j/zork1@0/b1/brass_lantern_164#s",
+  "j/zork1@0/b1/clove_garlic_189#s",
+  "j/zork1@0/b2/nasty_knife_169#d",
+  "j/zork1@0/b2/nasty_knife_169#s",
+  "j/zork1@0/b2/pair_candles_147#d",
+  "j/zork1@0/b2/pair_candles_147#s",
+  "j/zork1@0/b3/black_book_211#d",
+  "j/zork1@0/b3/black_book_211#s",
+  "j/zork1@0/b3/gold_coffin_208#d",
+  "j/zork1@0/b3/gold_coffin_208#s",
+  "j/zork1@0/b4/rope_129#d",
+  "j/zork1@0/b4/rope_129#s",
+  "j/zork1@0/b4/rusty_knife_128#d",
+  "j/zork1@0/b4/rusty_knife_128#s",
+  "j/zork1@0/b5/sceptre_209#d",
+  "j/zork1@0/b5/sceptre_209#s",
+  "j/zork1@0/b5/sword_110#s",
+  "j/zork1@0/b6/leather_bag_coins_165#d",
+  "j/zork1@0/b6/leather_bag_coins_165#s",
+  "j/zork1@0/b6/painting_149#s"
+ ],
+ "names": {
+  "r180": "West of House",
+  "r81": "North of House",
+  "r79": "Behind House",
+  "r203": "Kitchen",
+  "r201": "Attic",
+  "r193": "Living Room",
+  "r80": "South of House",
+  "r72": "Cellar",
+  "r102": "The Troll Room",
+  "r71": "East of Chasm",
+  "r41": "East-West Passage",
+  "r107": "Round Room",
+  "r96": "Engravings Cave",
+  "r133": "Dome Room",
+  "r105": "Torch Room",
+  "r220": "Temple",
+  "r212": "Altar",
+  "r148": "Gallery",
+  "r94": "Studio",
+  "r175": "Egyptian Room",
+  "r75": "Forest Path",
+  "r88": "Up a Tree",
+  "r78": "Forest",
+  "r76": "Forest",
+  "r143": "Clearing",
+  "r77": "Forest",
+  "r74": "Clearing",
+  "r25": "CanyView",
+  "r44": "Narrow Passage",
+  "r152": "Mirror Room",
+  "r46": "Cave",
+  "r70": "Maze",
+  "r67": "Maze",
+  "r68": "Maze",
+  "r167": "Maze",
+  "o181": "door",
+  "o160": "mailbox",
+  "o161": "leaflet",
+  "o204": "kitchen table",
+  "o224": "brown sack",
+  "o236": "glass bottle",
+  "o237": "quantity water",
+  "o194": "trophy case",
+  "o110": "sword",
+  "o111": "wooden door",
+  "o164": "brass lantern",
+  "o225": "lunch",
+  "o189": "clove garlic",
+  "o202": "table",
+  "o129": "rope",
+  "o169": "nasty knife",
+  "o183": "trap door",
+  "o217": "troll",
+  "o218": "bloody axe",
+  "o97": "engravings",
+  "o134": "wooden railing",
+  "o106": "pedestal",
+  "o104": "torch",
+  "o221": "brass bell",
+  "o135": "prayer",
+  "o213": "altar",
+  "o211": "black book",
+  "o147": "pair candles",
+  "o149": "painting",
+  "o95": "ZORK owner's manual",
+  "o115": "bag",
+  "o113": "stiletto",
+  "o208": "gold coffin",
+  "o89": "bird's nest",
+  "o144": "pile leaves",
+  "o153": "mirror",
+  "o168": "skeleton",
+  "o128": "rusty knife",
+  "o165": "leather bag coins",
+  "o209": "sceptre"
+ },
+ "kinds": {
+  "r180": "place",
+  "r81": "place",
+  "r79": "place",
+  "r203": "place",
+  "r201": "place",
+  "r193": "place",
+  "r80": "place",
+  "r72": "place",
+  "r102": "place",
+  "r71": "place",
+  "r41": "place",
+  "r107": "place",
+  "r96": "place",
+  "r133": "place",
+  "r105": "place",
+  "r220": "place",
+  "r212": "place",
+  "r148": "place",
+  "r94": "place",
+  "r175": "place",
+  "r75": "place",
+  "r88": "place",
+  "r78": "place",
+  "r76": "place",
+  "r143": "place",
+  "r77": "place",
+  "r74": "place",
+  "r25": "place",
+  "r44": "place",
+  "r152": "place",
+  "r46": "place",
+  "r70": "place",
+  "r67": "place",
+  "r68": "place",
+  "r167": "place",
+  "o181": "thing",
+  "o160": "thing",
+  "o161": "thing",
+  "o204": "thing",
+  "o224": "thing",
+  "o236": "thing",
+  "o237": "thing",
+  "o194": "thing",
+  "o110": "thing",
+  "o111": "thing",
+  "o164": "thing",
+  "o225": "thing",
+  "o189": "thing",
+  "o202": "thing",
+  "o129": "thing",
+  "o169": "thing",
+  "o183": "thing",
+  "o217": "thing",
+  "o218": "thing",
+  "o97": "thing",
+  "o134": "thing",
+  "o106": "thing",
+  "o104": "thing",
+  "o221": "thing",
+  "o135": "thing",
+  "o213": "thing",
+  "o211": "thing",
+  "o147": "thing",
+  "o149": "thing",
+  "o95": "thing",
+  "o115": "thing",
+  "o113": "thing",
+  "o208": "thing",
+  "o89": "thing",
+  "o144": "thing",
+  "o153": "thing",
+  "o168": "thing",
+  "o128": "thing",
+  "o165": "thing",
+  "o209": "thing"
+ },
+ "start": "r180",
+ "start_have": [],
+ "links": {
+  "r180|north": {
+   "to": "r81",
+   "have": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+   ],
+   "do": [
+    [
+     "open mailbox"
+    ],
+    [
+     "open mailbox"
+    ],
+    [
+     "open mailbox"
+    ],
+    [
+     "open mailbox"
+    ],
+    [
+     "open mailbox"
+    ],
+    [
+     "open mailbox"
+    ],
+    [
+     "open mailbox"
+    ],
+    [
+     "open mailbox"
+    ],
+    [
+     "open mailbox"
+    ],
+    [
+     "open mailbox"
+    ],
+    [
+     "open mailbox"
+    ]
+   ],
+   "src": [
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine"
+   ]
+  },
+  "r81|east": {
+   "to": "r79",
+   "have": [
+    [],
+    [],
+    []
+   ],
+   "do": [
+    [],
+    [],
+    []
+   ],
+   "src": [
+    "engine",
+    "engine",
+    "engine"
+   ]
+  },
+  "r79|in": {
+   "to": "r203",
+   "have": [
+    [],
+    [],
+    [],
+    []
+   ],
+   "do": [
+    [
+     "open window"
+    ],
+    [
+     "open window"
+    ],
+    [
+     "open window"
+    ],
+    [
+     "open window"
+    ]
+   ],
+   "src": [
+    "engine",
+    "engine",
+    "engine",
+    "engine"
+   ]
+  },
+  "r203|up": {
+   "to": "r201",
+   "have": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+   ],
+   "do": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+   ],
+   "src": [
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine"
+   ]
+  },
+  "r201|down": {
+   "to": "r203",
+   "have": [
+    [],
+    [],
+    [],
+    [],
+    []
+   ],
+   "do": [
+    [],
+    [
+     "light lamp"
+    ],
+    [
+     "light lamp"
+    ],
+    [
+     "light lamp"
+    ],
+    [
+     "light lamp"
+    ]
+   ],
+   "src": [
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine"
+   ]
+  },
+  "r203|west": {
+   "to": "r193",
+   "have": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+   ],
+   "do": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+   ],
+   "src": [
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine"
+   ]
+  },
+  "r180|south": {
+   "to": "r80",
+   "have": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+   ],
+   "do": [
+    [
+     "open mailbox"
+    ],
+    [],
+    [
+     "open mailbox"
+    ],
+    [],
+    [
+     "open mailbox"
+    ],
+    [],
+    [
+     "open mailbox"
+    ],
+    [],
+    [
+     "open mailbox"
+    ],
+    [],
+    [
+     "open mailbox"
+    ],
+    [],
+    [
+     "open mailbox"
+    ],
+    [],
+    [
+     "open mailbox"
+    ],
+    [],
+    [
+     "open mailbox"
+    ]
+   ],
+   "src": [
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine"
+   ]
+  },
+  "r80|east": {
+   "to": "r79",
+   "have": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+   ],
+   "do": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+   ],
+   "src": [
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine"
+   ]
+  },
+  "r79|enter window": {
+   "to": "r203",
+   "have": [
+    [],
+    []
+   ],
+   "do": [
+    [
+     "open window"
+    ],
+    [
+     "open window"
+    ]
+   ],
+   "src": [
+    "engine",
+    "engine"
+   ]
+  },
+  "r79|west": {
+   "to": "r203",
+   "have": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+   ],
+   "do": [
+    [
+     "open window"
+    ],
+    [
+     "open window"
+    ],
+    [
+     "open window"
+    ],
+    [
+     "open window"
+    ],
+    [
+     "open window"
+    ],
+    [
+     "open window"
+    ],
+    [
+     "open window"
+    ],
+    [
+     "open window"
+    ],
+    [
+     "open window"
+    ],
+    [
+     "open window"
+    ],
+    [
+     "open window"
+    ],
+    [
+     "open window"
+    ],
+    [
+     "open window"
+    ],
+    [
+     "open window"
+    ]
+   ],
+   "src": [
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine"
+   ]
+  },
+  "r193|east": {
+   "to": "r203",
+   "have": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+   ],
+   "do": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+   ],
+   "src": [
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine"
+   ]
+  },
+  "r81|west": {
+   "to": "r180",
+   "have": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+   ],
+   "do": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+   ],
+   "src": [
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine"
+   ]
+  },
+  "r193|down": {
+   "to": "r72",
+   "have": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+   ],
+   "do": [
+    [
+     "move rug",
+     "open case",
+     "open trap door",
+     "turn on lantern"
+    ],
+    [
+     "move rug",
+     "open trapdoor"
+    ],
+    [
+     "light lantern",
+     "open trap door",
+     "roll rug"
+    ],
+    [
+     "move rug",
+     "open trapdoor"
+    ],
+    [
+     "move rug",
+     "open trapdoor"
+    ],
+    [
+     "light lantern",
+     "move rug",
+     "open trap door"
+    ],
+    [
+     "move rug",
+     "open trapdoor"
+    ],
+    [
+     "light lantern",
+     "move rug",
+     "open trap door"
+    ],
+    [
+     "move rug",
+     "open trapdoor"
+    ],
+    [
+     "light lantern",
+     "move rug",
+     "open trap door"
+    ],
+    [
+     "move rug",
+     "open trapdoor"
+    ],
+    [
+     "move rug",
+     "open trap door",
+     "turn on lantern"
+    ],
+    [
+     "open trap door",
+     "roll rug"
+    ]
+   ],
+   "src": [
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine"
+   ]
+  },
+  "r72|north": {
+   "to": "r102",
+   "have": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+   ],
+   "do": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+     "light lamp"
+    ],
+    [],
+    [],
+    [],
+    [
+     "light lamp"
+    ],
+    [],
+    [
+     "turn on lantern"
+    ]
+   ],
+   "src": [
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine"
+   ]
+  },
+  "r102|south": {
+   "to": "r72",
+   "have": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+   ],
+   "do": [
+    [],
+    [
+     "west"
+    ],
+    [],
+    [],
+    [],
+    [],
+    []
+   ],
+   "src": [
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine"
+   ]
+  },
+  "r72|south": {
+   "to": "r71",
+   "have": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+   ],
+   "do": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+     "turn on lantern"
+    ]
+   ],
+   "src": [
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine"
+   ]
+  },
+  "r71|north": {
+   "to": "r72",
+   "have": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+   ],
+   "do": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+   ],
+   "src": [
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine"
+   ]
+  },
+  "r102|east": {
+   "to": "r41",
+   "have": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+   ],
+   "do": [
+    [
+     "kill troll with sword"
+    ],
+    [
+     "kill troll with sword"
+    ],
+    [
+     "kill troll with sword"
+    ],
+    [
+     "kill troll with sword"
+    ],
+    [
+     "kill troll with sword"
+    ],
+    [
+     "kill troll with sword"
+    ]
+   ],
+   "src": [
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine"
+   ]
+  },
+  "r41|east": {
+   "to": "r107",
+   "have": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+   ],
+   "do": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+   ],
+   "src": [
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine"
+   ]
+  },
+  "r107|southeast": {
+   "to": "r96",
+   "have": [
+    [],
+    [],
+    [],
+    []
+   ],
+   "do": [
+    [],
+    [],
+    [],
+    []
+   ],
+   "src": [
+    "engine",
+    "engine",
+    "engine",
+    "engine"
+   ]
+  },
+  "r96|east": {
+   "to": "r133",
+   "have": [
+    [],
+    [],
+    [],
+    []
+   ],
+   "do": [
+    [],
+    [],
+    [],
+    []
+   ],
+   "src": [
+    "engine",
+    "engine",
+    "engine",
+    "engine"
+   ]
+  },
+  "r133|down": {
+   "to": "r105",
+   "have": [
+    [],
+    [],
+    [],
+    []
+   ],
+   "do": [
+    [
+     "tie rope to railing"
+    ],
+    [
+     "tie rope to railing"
+    ],
+    [
+     "tie rope to railing"
+    ],
+    [
+     "tie rope to railing"
+    ]
+   ],
+   "src": [
+    "engine",
+    "engine",
+    "engine",
+    "engine"
+   ]
+  },
+  "r105|down": {
+   "to": "r220",
+   "have": [
+    [],
+    [],
+    [],
+    []
+   ],
+   "do": [
+    [],
+    [],
+    [],
+    []
+   ],
+   "src": [
+    "engine",
+    "engine",
+    "engine",
+    "engine"
+   ]
+  },
+  "r220|south": {
+   "to": "r212",
+   "have": [
+    [],
+    [],
+    []
+   ],
+   "do": [
+    [],
+    [],
+    []
+   ],
+   "src": [
+    "engine",
+    "engine",
+    "engine"
+   ]
+  },
+  "r71|east": {
+   "to": "r148",
+   "have": [
+    [],
+    [],
+    [],
+    []
+   ],
+   "do": [
+    [],
+    [],
+    [],
+    []
+   ],
+   "src": [
+    "engine",
+    "engine",
+    "engine",
+    "engine"
+   ]
+  },
+  "r148|west": {
+   "to": "r71",
+   "have": [
+    [],
+    [],
+    []
+   ],
+   "do": [
+    [],
+    [],
+    []
+   ],
+   "src": [
+    "engine",
+    "engine",
+    "engine"
+   ]
+  },
+  "r148|north": {
+   "to": "r94",
+   "have": [
+    [],
+    [],
+    []
+   ],
+   "do": [
+    [],
+    [],
+    []
+   ],
+   "src": [
+    "engine",
+    "engine",
+    "engine"
+   ]
+  },
+  "r94|south": {
+   "to": "r148",
+   "have": [
+    [],
+    [],
+    []
+   ],
+   "do": [
+    [],
+    [],
+    []
+   ],
+   "src": [
+    "engine",
+    "engine",
+    "engine"
+   ]
+  },
+  "r220|down": {
+   "to": "r175",
+   "have": [
+    []
+   ],
+   "do": [
+    []
+   ],
+   "src": [
+    "engine"
+   ]
+  },
+  "r81|north": {
+   "to": "r75",
+   "have": [
+    []
+   ],
+   "do": [
+    []
+   ],
+   "src": [
+    "engine"
+   ]
+  },
+  "r75|climb tree": {
+   "to": "r88",
+   "have": [
+    []
+   ],
+   "do": [
+    []
+   ],
+   "src": [
+    "engine"
+   ]
+  },
+  "r88|down": {
+   "to": "r75",
+   "have": [
+    []
+   ],
+   "do": [
+    []
+   ],
+   "src": [
+    "engine"
+   ]
+  },
+  "r75|west": {
+   "to": "r78",
+   "have": [
+    []
+   ],
+   "do": [
+    []
+   ],
+   "src": [
+    "engine"
+   ]
+  },
+  "r78|south": {
+   "to": "r76",
+   "have": [
+    []
+   ],
+   "do": [
+    []
+   ],
+   "src": [
+    "engine"
+   ]
+  },
+  "r76|west": {
+   "to": "r78",
+   "have": [
+    []
+   ],
+   "do": [
+    []
+   ],
+   "src": [
+    "engine"
+   ]
+  },
+  "r78|north": {
+   "to": "r143",
+   "have": [
+    []
+   ],
+   "do": [
+    []
+   ],
+   "src": [
+    "engine"
+   ]
+  },
+  "r143|south": {
+   "to": "r75",
+   "have": [
+    []
+   ],
+   "do": [
+    []
+   ],
+   "src": [
+    "engine"
+   ]
+  },
+  "r143|east": {
+   "to": "r77",
+   "have": [
+    []
+   ],
+   "do": [
+    []
+   ],
+   "src": [
+    "engine"
+   ]
+  },
+  "r77|south": {
+   "to": "r74",
+   "have": [
+    []
+   ],
+   "do": [
+    []
+   ],
+   "src": [
+    "engine"
+   ]
+  },
+  "r74|east": {
+   "to": "r25",
+   "have": [
+    []
+   ],
+   "do": [
+    []
+   ],
+   "src": [
+    "engine"
+   ]
+  },
+  "r25|west": {
+   "to": "r76",
+   "have": [
+    []
+   ],
+   "do": [
+    []
+   ],
+   "src": [
+    "engine"
+   ]
+  },
+  "r78|east": {
+   "to": "r75",
+   "have": [
+    []
+   ],
+   "do": [
+    []
+   ],
+   "src": [
+    "engine"
+   ]
+  },
+  "r75|south": {
+   "to": "r81",
+   "have": [
+    []
+   ],
+   "do": [
+    []
+   ],
+   "src": [
+    "engine"
+   ]
+  },
+  "r107|south": {
+   "to": "r44",
+   "have": [
+    [],
+    []
+   ],
+   "do": [
+    [],
+    []
+   ],
+   "src": [
+    "engine",
+    "engine"
+   ]
+  },
+  "r44|south": {
+   "to": "r152",
+   "have": [
+    [],
+    []
+   ],
+   "do": [
+    [],
+    []
+   ],
+   "src": [
+    "engine",
+    "engine"
+   ]
+  },
+  "r152|east": {
+   "to": "r46",
+   "have": [
+    [],
+    []
+   ],
+   "do": [
+    [],
+    []
+   ],
+   "src": [
+    "engine",
+    "engine"
+   ]
+  },
+  "r46|north": {
+   "to": "r152",
+   "have": [
+    [],
+    []
+   ],
+   "do": [
+    [],
+    []
+   ],
+   "src": [
+    "engine",
+    "engine"
+   ]
+  },
+  "r152|north": {
+   "to": "r44",
+   "have": [
+    [],
+    []
+   ],
+   "do": [
+    [],
+    []
+   ],
+   "src": [
+    "engine",
+    "engine"
+   ]
+  },
+  "r44|north": {
+   "to": "r107",
+   "have": [
+    [],
+    []
+   ],
+   "do": [
+    [],
+    []
+   ],
+   "src": [
+    "engine",
+    "engine"
+   ]
+  },
+  "r107|west": {
+   "to": "r41",
+   "have": [
+    [],
+    []
+   ],
+   "do": [
+    [],
+    []
+   ],
+   "src": [
+    "engine",
+    "engine"
+   ]
+  },
+  "r41|west": {
+   "to": "r102",
+   "have": [
+    [],
+    []
+   ],
+   "do": [
+    [],
+    []
+   ],
+   "src": [
+    "engine",
+    "engine"
+   ]
+  },
+  "r102|west": {
+   "to": "r70",
+   "have": [
+    [],
+    []
+   ],
+   "do": [
+    [
+     "kill troll with sword"
+    ],
+    [
+     "kill troll with sword"
+    ]
+   ],
+   "src": [
+    "engine",
+    "engine"
+   ]
+  },
+  "r70|west": {
+   "to": "r67",
+   "have": [
+    [],
+    []
+   ],
+   "do": [
+    [],
+    []
+   ],
+   "src": [
+    "engine",
+    "engine"
+   ]
+  },
+  "r67|west": {
+   "to": "r68",
+   "have": [
+    [],
+    []
+   ],
+   "do": [
+    [],
+    []
+   ],
+   "src": [
+    "engine",
+    "engine"
+   ]
+  },
+  "r68|up": {
+   "to": "r167",
+   "have": [
+    [],
+    []
+   ],
+   "do": [
+    [],
+    []
+   ],
+   "src": [
+    "engine",
+    "engine"
+   ]
+  },
+  "r94|climb chimney": {
+   "to": "r203",
+   "have": [
+    []
+   ],
+   "do": [
+    []
+   ],
+   "src": [
+    "engine"
+   ]
+  },
+  "r212|north": {
+   "to": "r220",
+   "have": [
+    []
+   ],
+   "do": [
+    []
+   ],
+   "src": [
+    "engine"
+   ]
+  },
+  "r220|east": {
+   "to": "r175",
+   "have": [
+    []
+   ],
+   "do": [
+    []
+   ],
+   "src": [
+    "engine"
+   ]
+  }
+ },
+ "gets": {
+  "o161": {
+   "have": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+   ],
+   "do": [
+    [
+     "open mailbox"
+    ],
+    [
+     "open mailbox"
+    ],
+    [
+     "open mailbox"
+    ],
+    [
+     "open mailbox"
+    ],
+    [
+     "open mailbox"
+    ],
+    [
+     "open mailbox"
+    ],
+    [
+     "open mailbox"
+    ],
+    [
+     "open mailbox"
+    ],
+    [
+     "open mailbox"
+    ],
+    [
+     "open mailbox"
+    ],
+    [
+     "open mailbox"
+    ],
+    [
+     "open mailbox"
+    ]
+   ],
+   "src": [
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine"
+   ],
+   "place": "r180",
+   "holder": "mailbox",
+   "action": "take leaflet"
+  },
+  "o164": {
+   "have": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+   ],
+   "do": [
+    [],
+    [],
+    [
+     "move rug",
+     "open case",
+     "open trap door"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+     "move rug",
+     "open trap door"
+    ],
+    [],
+    [
+     "move rug",
+     "open trap door"
+    ],
+    [],
+    [],
+    [],
+    [],
+    []
+   ],
+   "src": [
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine"
+   ],
+   "place": "r193",
+   "holder": "",
+   "action": "take lantern"
+  },
+  "o189": {
+   "have": [
+    [],
+    []
+   ],
+   "do": [
+    [
+     "open sack"
+    ],
+    [
+     "open sack"
+    ]
+   ],
+   "src": [
+    "engine",
+    "engine"
+   ],
+   "place": "r72",
+   "holder": "",
+   "action": "take garlic"
+  },
+  "o169": {
+   "have": [
+    []
+   ],
+   "do": [
+    [
+     "light lamp"
+    ]
+   ],
+   "src": [
+    "engine"
+   ],
+   "place": "r201",
+   "holder": "table",
+   "action": "get knife"
+  },
+  "o129": {
+   "have": [
+    [],
+    [],
+    [],
+    [],
+    []
+   ],
+   "do": [
+    [
+     "light lamp"
+    ],
+    [
+     "light lamp"
+    ],
+    [
+     "light lamp"
+    ],
+    [
+     "light lamp"
+    ],
+    [
+     "light lamp"
+    ]
+   ],
+   "src": [
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine"
+   ],
+   "place": "r201",
+   "holder": "",
+   "action": "get rope"
+  },
+  "o110": {
+   "have": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+   ],
+   "do": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+   ],
+   "src": [
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine",
+    "engine"
+   ],
+   "place": "r193",
+   "holder": "",
+   "action": "get sword"
+  },
+  "o147": {
+   "have": [
+    []
+   ],
+   "do": [
+    []
+   ],
+   "src": [
+    "engine"
+   ],
+   "place": "r212",
+   "holder": "",
+   "action": "get candles"
+  },
+  "o95": {
+   "have": [
+    [],
+    [],
+    []
+   ],
+   "do": [
+    [],
+    [],
+    []
+   ],
+   "src": [
+    "engine",
+    "engine",
+    "engine"
+   ],
+   "place": "r94",
+   "holder": "",
+   "action": "take paper"
+  },
+  "o211": {
+   "have": [
+    []
+   ],
+   "do": [
+    []
+   ],
+   "src": [
+    "engine"
+   ],
+   "place": "r212",
+   "holder": "altar",
+   "action": "get book"
+  },
+  "o208": {
+   "have": [
+    []
+   ],
+   "do": [
+    []
+   ],
+   "src": [
+    "engine"
+   ],
+   "place": "r175",
+   "holder": "",
+   "action": "get coffin"
+  },
+  "o128": {
+   "have": [
+    []
+   ],
+   "do": [
+    []
+   ],
+   "src": [
+    "engine"
+   ],
+   "place": "r167",
+   "holder": "",
+   "action": "get knife"
+  },
+  "o209": {
+   "have": [
+    []
+   ],
+   "do": [
+    [
+     "open coffin"
+    ]
+   ],
+   "src": [
+    "engine"
+   ],
+   "place": "r175",
+   "holder": "gold coffin",
+   "action": "get sceptre"
+  },
+  "o224": {
+   "have": [
+    []
+   ],
+   "do": [
+    []
+   ],
+   "src": [
+    "engine"
+   ],
+   "place": "r203",
+   "holder": "kitchen table",
+   "action": "take sack"
+  },
+  "o165": {
+   "have": [
+    []
+   ],
+   "do": [
+    []
+   ],
+   "src": [
+    "engine"
+   ],
+   "place": "r167",
+   "holder": "",
+   "action": "get bag"
+  },
+  "o149": {
+   "have": [
+    []
+   ],
+   "do": [
+    []
+   ],
+   "src": [
+    "engine"
+   ],
+   "place": "r148",
+   "holder": "",
+   "action": "take painting"
+  }
+ },
+ "ats": {
+  "o181": {
+   "place": "r180",
+   "holder": "",
+   "src": "engine"
+  },
+  "o160": {
+   "place": "r180",
+   "holder": "",
+   "src": "engine"
+  },
+  "o204": {
+   "place": "r203",
+   "holder": "",
+   "src": "engine"
+  },
+  "o236": {
+   "place": "r203",
+   "holder": "kitchen table",
+   "src": "engine"
+  },
+  "o237": {
+   "place": "r203",
+   "holder": "glass bottle",
+   "src": "engine"
+  },
+  "o194": {
+   "place": "r193",
+   "holder": "",
+   "src": "engine"
+  },
+  "o111": {
+   "place": "r193",
+   "holder": "",
+   "src": "engine"
+  },
+  "o225": {
+   "place": "r203",
+   "holder": "brown sack",
+   "src": "engine"
+  },
+  "o202": {
+   "place": "r201",
+   "holder": "",
+   "src": "engine"
+  },
+  "o183": {
+   "place": "r193",
+   "holder": "",
+   "src": "engine"
+  },
+  "o217": {
+   "place": "r102",
+   "holder": "",
+   "src": "engine"
+  },
+  "o218": {
+   "place": "r102",
+   "holder": "troll",
+   "src": "engine"
+  },
+  "o97": {
+   "place": "r96",
+   "holder": "",
+   "src": "engine"
+  },
+  "o134": {
+   "place": "r133",
+   "holder": "",
+   "src": "engine"
+  },
+  "o106": {
+   "place": "r105",
+   "holder": "",
+   "src": "engine"
+  },
+  "o104": {
+   "place": "r105",
+   "holder": "pedestal",
+   "src": "engine"
+  },
+  "o221": {
+   "place": "r220",
+   "holder": "",
+   "src": "engine"
+  },
+  "o135": {
+   "place": "r220",
+   "holder": "",
+   "src": "engine"
+  },
+  "o213": {
+   "place": "r212",
+   "holder": "",
+   "src": "engine"
+  },
+  "o115": {
+   "place": "r94",
+   "holder": "thief",
+   "src": "engine"
+  },
+  "o113": {
+   "place": "r94",
+   "holder": "thief",
+   "src": "engine"
+  },
+  "o89": {
+   "place": "r88",
+   "holder": "",
+   "src": "engine"
+  },
+  "o144": {
+   "place": "r143",
+   "holder": "",
+   "src": "engine"
+  },
+  "o153": {
+   "place": "r152",
+   "holder": "",
+   "src": "engine"
+  },
+  "o168": {
+   "place": "r167",
+   "holder": "",
+   "src": "engine"
+  }
+ },
+ "acts": {
+  "light lamp": {
+   "have": [
+    [
+     "o164"
+    ]
+   ],
+   "src": [
+    "engine"
+   ]
+  },
+  "turn on lantern": {
+   "have": [
+    [
+     "o164"
+    ]
+   ],
+   "src": [
+    "engine"
+   ]
+  },
+  "kill troll with sword": {
+   "have": [
+    [
+     "o110"
+    ]
+   ],
+   "src": [
+    "engine"
+   ]
+  },
+  "tie rope to railing": {
+   "have": [
+    [
+     "o129"
+    ]
+   ],
+   "src": [
+    "engine"
+   ]
+  },
+  "light lantern": {
+   "have": [
+    [
+     "o164"
+    ]
+   ],
+   "src": [
+    "engine"
+   ]
+  },
+  "open sack": {
+   "have": [
+    [
+     "o224"
+    ]
+   ],
+   "src": [
+    "engine"
+   ]
+  }
+ },
+ "enters": {
+  "r201": {
+   "have": [
+    [
+     "o164"
+    ]
+   ],
+   "do": [
+    [
+     "turn on lantern"
+    ]
+   ],
+   "src": [
+    "engine"
+   ]
+  },
+  "r72": {
+   "have": [
+    [
+     "o164"
+    ]
+   ],
+   "do": [
+    [
+     "turn on lantern"
+    ]
+   ],
+   "src": [
+    "engine"
+   ]
+  }
+ },
+ "events": [],
+ "aliases": {}
+}
